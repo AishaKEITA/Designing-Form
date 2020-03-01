@@ -1,0 +1,132 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-one{
+    display: flex;
+    width: 609px;
+    height: 594px;
+    background-color: steelblue;
+
+
+}  
+form{
+    width:300px;
+}
+.section-two{
+width: 345px;
+height: 594px;
+background-color: lightblue;
+}
+.input-field{
+    width: 100%;
+    min-height: 32px;
+    margin-bottom:10px;
+    box-sizing: border-box;
+    text-align: left;
+    border: 0.1px solid;
+   
+}
+input{
+    width: 100%;
+    
+}
+.card  {
+    margin-left:5px;
+
+}
+.form .wrap-one {
+    margin-left:5px;
+
+}
+.form .wrap-three{
+    margin-left:5px;
+
+}
+::placeholder{
+    color:pink;
+}
+form .wrap{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    margin-left:5px;
+    }
+    .wrap-three{
+    width: 202px;
+    height: 48px;  
+    background-color:white;
+    text-align: center;  
+    border-radius: 40px;
+}
+    
+
+.playnow{
+    width: 89px;
+    height:21px;
+    margin-top:10px;
+    color:pink;
+    background-color: steelblue;
+    cursor: pointer;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    padding:2px 0;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
