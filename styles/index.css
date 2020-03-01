@@ -19,10 +19,15 @@ body{
 form{
     width:300px;
 }
-.section-two{
+.section-two {
 width: 345px;
 height: 594px;
 background-color: lightblue;
+}
+.wrap-four{
+display: flex;
+flex-direction: column;
+margin-right: 50px;
 }
 .input-field{
     width: 100%;
